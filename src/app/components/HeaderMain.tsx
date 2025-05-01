@@ -1,4 +1,4 @@
-"use client"
+
 import React from 'react'
 
 import { FaHeart, FaSearch,FaUser, } from "react-icons/fa";
